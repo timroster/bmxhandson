@@ -1,0 +1,16 @@
+{
+    "author": [
+        {
+            "name": "Tim Robinson",
+            "email": "timro@us.ibm.com"
+        }
+    ],
+    "tags": [ "bluemix", "java", cloudant ],
+    "title": "Deploy your first Java App",
+    "description": "This is an introductory lab that goes through common parts of the Bluemix Web UI. This lab uses a Java application as the example.",
+    "date": "2017-09-20T19:05:32-07:00",
+    "draft": "false",
+    "_comment2" : "no edits below this point, links will autopopulate",
+    "html": "",
+    "links": []
+}
