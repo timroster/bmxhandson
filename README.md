@@ -39,4 +39,8 @@ In this series of labs, you will build a simple Java microprofile application th
 
 *coming soon* based on lab series here:
 https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application/
+
 [GitHub](https://github.com/WASdev/sample.microprofile.meetingapp)
+
+1. [Meeting application step 1](https://github.com/IBM/microprofile-meeting)
+2. [Meeting application persistence](https://github.com/IBM/microprofile-meeting-persistance)
