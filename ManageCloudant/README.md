@@ -229,7 +229,7 @@ Step 9. Setup replication for a sample database
     -   **Replication type**: **One time** Replication can be one time or continuous.
 
     -   Just like any document in any other Cloudant database, you can either use the auto-generated document ID, or provide your own. For
-    this tutorial, type `foundbite\_replication`.
+    this tutorial, type `foundbite_replication`.
 
     ![](images/image26.jpg)
 
