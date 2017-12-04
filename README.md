@@ -29,18 +29,17 @@ This lab will show you how to manage a Cloudant database using the dashboard. Si
 
 [Manage Cloudant](ManageCloudant/README.md)
 
+### Using Redis as a data cache
+In this lab, you will add a service instance of Redis to the Get Started Java application as a data cache to avoid an API call to the Cloudant database to check for existing user documents.
+
+[Add Redis to Get Started Java](https://github.com/timroster/get-started-java)
+
 ### Exploring Message Hub
 This lab will introduce two sample applications that use the kafka java api to communicate with Bluemix Message Hub.
 
 [Message Hub with Java](https://github.com/timroster/message-hub-samples/blob/master/LAB_README.md)
 
-### The Microprofile platform for Java Enterprise microservices
-In this series of labs, you will build a simple Java microprofile application that provides a REST backend for an AngularJS single page application.
+### The What's for Dinner application
+In this lab, you will deploy a sample Microservices application using Spring and the Netflix OSS framework for microservices.
 
-*coming soon* based on lab series here:
-https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application/
-
-[GitHub](https://github.com/WASdev/sample.microprofile.meetingapp)
-
-1. [Meeting application step 1](https://github.com/IBM/microprofile-meeting)
-2. [Meeting application persistence](https://github.com/IBM/microprofile-meeting-persistance)
+[What's for Dinner](https://github.com/ibm-cloud-architecture/refarch-cloudnative-netflix)
